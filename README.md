@@ -1,4 +1,4 @@
-# DataStructuresFP
+# DataStructuresFP | Dijkstra’s Algorithm
 This repository was made for our Data Structure Final Project
 Made By :
 - Avariq Fazlur Rahman / 2502043002
